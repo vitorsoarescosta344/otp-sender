@@ -37,6 +37,7 @@
     "otp-generator": "^4.0.0",
     "pino": "^8.0.0",
     "pino-http": "^7.1.0",
-    "pino-pretty": "^8.1.0"
+    "pino-pretty": "^8.1.0",
+    "yup": "^0.32.11"
   }
 }
